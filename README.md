@@ -7,5 +7,5 @@ Desktop Presentation**
 
 ![Screenshot (62)](https://user-images.githubusercontent.com/84929479/149858167-4cd2012c-020b-4c83-9eee-f56f382f1df1.png)
 
-![Screenshot (66)](https://user-images.githubusercontent.com/84929479/149858191-ebdeaaf8-9f42-4201-8bc0-2aa152f449ce.png)
+
 
