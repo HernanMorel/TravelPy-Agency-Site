@@ -16,9 +16,11 @@ body {
 
 .slider {
   h2 {
-    font-weight: 700;
+    color: $bright-wth;
+    font-weight: 600;
   }
   h5 {
-    color: red !important;
+    color: $bright-wth;
+    font-weight: 400;
   }
 }
