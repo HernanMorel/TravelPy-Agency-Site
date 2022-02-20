@@ -1,3 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap");
+//variables //
+$bright-wth: #fff;
+//variables //
+body {
+  font-family: "Roboto", sans-serif;
+}
 .section-follow .fa-4x {
   margin: 5px 10px;
 }
@@ -5,4 +12,13 @@
 #map {
   width: 100%;
   height: fit-content;
+}
+
+.slider {
+  h2 {
+    font-weight: 700;
+  }
+  h5 {
+    color: red !important;
+  }
 }
