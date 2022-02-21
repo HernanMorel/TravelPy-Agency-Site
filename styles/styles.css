@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&family=Source+Sans+Pro:wght@400;700&display=swap");
 body {
   font-family: "Roboto", sans-serif;
 }
@@ -14,13 +14,37 @@ body {
   height: fit-content;
 }
 
-.slider h2 {
+.nav-wrapper .brand-logo {
+  font-family: "Source Sans", sans-serif;
+}
+
+.nav-wrapper .brand-logo span {
   color: #fff;
-  font-weight: 600;
+}
+
+.slider img {
+  opacity: 0.95;
+}
+
+.slider h2 {
+  padding-top: 3rem;
+  font-weight: 700;
 }
 
 .slider h5 {
-  color: #fff;
   font-weight: 400;
+}
+
+.section-icons p {
+  font-size: 1rem;
+}
+
+.section-icons .card-panel {
+  max-height: auto;
+}
+
+footer {
+  font-family: "Source Sans", sans-serif;
+  font-size: 400;
 }
 /*# sourceMappingURL=styles.css.map */
