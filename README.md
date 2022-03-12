@@ -1,5 +1,5 @@
 # Agencia TravelPy
-Este es un sitio de viajes simulado para una agencia de viajes de Paraguay. Construí esto usando el framework Materialize CSS, y el API de Unsplash para una rotación seleccionada de imágenes que se muestran en la galería de imágenes. Esta fue mi primera vez usando este framework y a través de algunas investigaciones, encontré su documentación realmente útil en el proceso de construcción del sitio. Esta librería se presenta como una alternativa menos declarativa que la librería de Bootstrap y permite mucha más personalización, especialmente si se combina con un preprocesador de CSS como SASS/SCSS, los cuales terminé utilizando. También pude implementar las herramientas JS que el framework proporciona para algunas características de auto-scroll.  
+Este es un sitio simulado para una agencia de viajes de Paraguay. Construí esto usando el framework Materialize CSS, y el API de Unsplash para una rotación seleccionada de imágenes que se muestran en la galería de imágenes. Esta fue mi primera vez usando este framework y a través de algunas investigaciones, encontré su documentación realmente útil en el proceso de construcción del sitio. Esta librería se presenta como una alternativa menos declarativa que la librería de Bootstrap y permite mucha más personalización, especialmente si se combina con un preprocesador de CSS como SASS/SCSS, los cuales terminé utilizando. También pude implementar las herramientas JS que el framework proporciona para algunas características de auto-scroll.  
 
 ## Lecciones Aprendidas
 
@@ -21,7 +21,7 @@ La sintaxis y la personalización del framework tiene un poco de curva de aprend
 
 # TravelPy Agency
 
-This is a mock travel site for a Paraguayan Travel Agency. I built this using the Materialize CSS framework, and the Unsplash API for a selected rotation of pictures to be displayed in the image gallery. This was my first time using this framework and through some research, I found their documentation really helpful in the build-process of the site. This library comes off as a less-declarative alternative to the Bootstrap library and allows for much more customization, especially if it's paired with a CSS pre-processor like SASS/SCSS, both of which I ended up using. I was also able to implement the JS tools the framework provided for some auto-scroll features.
+This is a mock landing page for a Paraguayan Travel Agency. I built this using the Materialize CSS framework, and the Unsplash API for a selected rotation of pictures to be displayed in the image gallery. This was my first time using this framework and through some research, I found their documentation really helpful in the build-process of the site. This library comes off as a less-declarative alternative to the Bootstrap library and allows for much more customization, especially if it's paired with a CSS pre-processor like SASS/SCSS, both of which I ended up using. I was also able to implement the JS tools the framework provided for some auto-scroll features.
 
 ## Lessons Learned
 
