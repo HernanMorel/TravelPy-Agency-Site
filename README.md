@@ -33,4 +33,6 @@ The syntax and customization of the framework has a bit of a learning curve, but
 * I would want to add the Google Maps API that allows users to find the locations of resorts/hotels/ and 'posadas' through the inline-map on the website. 
 * It would be nice if the page had a booking feature, in case it were real, customers could book their reservations to different places through the web app.
 
+## Deployment
+
 [This is an external link to the site] (https://hernanmorel.github.io/TravelPy-Agency-Site/)
