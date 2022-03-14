@@ -13,7 +13,7 @@ La sintaxis y la personalización del framework tiene un poco de curva de aprend
 
 ## Implementación
 
-[Este es un enlace externo al sitio web] (https://hernanmorel.github.io/TravelPy-Agency-Site/)
+[Este es un enlace externo al sitio web](https://hernanmorel.github.io/TravelPy-Agency-Site/)
 
 
 *ENG*
@@ -35,4 +35,4 @@ The syntax and customization of the framework has a bit of a learning curve, but
 
 ## Deployment
 
-[This is an external link to the site] (https://hernanmorel.github.io/TravelPy-Agency-Site/)
+[This is an external link to the site](https://hernanmorel.github.io/TravelPy-Agency-Site/)
